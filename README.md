@@ -1,5 +1,9 @@
 ## Synopsis
 
+## Mark Hadfield 2018-07-05
+
+I have now installed coards under Python 3.6 with pip, so this repository is redundant
+
 ### Mark Hadfield 2018-03-05
 
 The coards subdirectory contains __init__.py from a Debian package downloaded from
